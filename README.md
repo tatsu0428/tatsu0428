@@ -3,6 +3,9 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tatsu0428&theme=tokyonight&show_icons=true" />
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <!--
 **tatsu0428/tatsu0428** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
